@@ -1,0 +1,14 @@
+# Node Modules
+frontend/node_modules
+
+# Expo
+frontend/.expo
+
+# Build
+backend/target
+
+# Env Files
+.env
+
+# Logs
+*.log
